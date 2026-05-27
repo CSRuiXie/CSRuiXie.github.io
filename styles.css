@@ -165,6 +165,16 @@ h3 {
   font-size: 1.05rem;
 }
 
+.section-body a,
+.timeline-content a {
+  color: var(--primary-dark);
+}
+
+.section-body a:hover,
+.timeline-content a:hover {
+  color: var(--primary);
+}
+
 .hero-actions,
 .social-links,
 .pub-links,
